@@ -7,7 +7,8 @@ Everyday (console) Git
 
 ### Motivation 
 - IDE is necessary evil
-- GUI is une
+- GUIs hide everything that might help 
+- Git Rebase My History
 
 ### Easy-to-Use
 - $ git clone / init
@@ -20,12 +21,14 @@ Everyday (console) Git
 - $ git rebase
 - $ git stash
 - $ git reset
+- $ git reflog
 
 ### Tools: 
 - zsh + prezto : https://github.com/sorin-ionescu/prezto
 - vscode : https://code.visualstudio.com/
 
 ### Bonus
+- https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
 - http://getpot.sourceforge.net/GUI-ism.txt
 - https://github.com/VitaliyKulikov/JavaMeetUp2021
 
