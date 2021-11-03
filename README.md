@@ -11,11 +11,11 @@ Everyday (console) Git
 - Git Rebase My History
 
 ### Easy-to-Use
-- $ git clone / init
-- $ git fetch / remote update
-- $ git pull
+- $ git clone | init
+- $ git fetch | remote update
+- $ git pull | push
 - $ git log
-- $ git status
+- $ git status 
 - $ git diff
 - $ git cherry-pick
 - $ git rebase
