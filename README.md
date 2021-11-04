@@ -11,9 +11,9 @@ Everyday (console) Git
 - Git Rebase My History
 
 ### Easy-to-Use
-- $ git clone | init
-- $ git fetch | remote update
-- $ git pull | push
+- $ git clone|init
+- $ git remote update|prune
+- $ git fetch|pull|push
 - $ git log
 - $ git status 
 - $ git diff
